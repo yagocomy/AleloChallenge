@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EA8C82AE-5244-4268-B60E-7A1F30DDF08E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D90A0973-7408-482A-9C85-81B93B1E7E4C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project-Enjoei/Home/View/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D90A0973-7408-482A-9C85-81B93B1E7E4C - 7c40cc151a1871a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_Enjoei.HomeView.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "Project-Enjoei"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagodsmartins/Documents/Project-Enjoei/Project-Enjoei/Home/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "2228">
+               </Location>
+               <Location
+                  uuid = "D90A0973-7408-482A-9C85-81B93B1E7E4C - cc3ca9f8e7418b06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIImage) -&gt; () in Project_Enjoei.HomeView.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "Project-Enjoei"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagodsmartins/Documents/Project-Enjoei/Project-Enjoei/Home/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "540">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E08690B2-7249-429D-A25C-9E69C5A3B85C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project-Enjoei/Home/View/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "278"
+            endingLineNumber = "278"
+            landmarkName = "searchData(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E08690B2-7249-429D-A25C-9E69C5A3B85C - 62aa99ceed6805b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Project_Enjoei.HomeView.searchData(Swift.String) -&gt; ()"
+                  moduleName = "Project-Enjoei"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagodsmartins/Documents/Project-Enjoei/Project-Enjoei/Home/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "282"
+                  endingLineNumber = "282"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "E08690B2-7249-429D-A25C-9E69C5A3B85C - 631c97e871ef5405"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_Enjoei.HomeView.searchData(Swift.String) -&gt; ()"
+                  moduleName = "Project-Enjoei"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagodsmartins/Documents/Project-Enjoei/Project-Enjoei/Home/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "282"
+                  endingLineNumber = "282"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+               <Location
+                  uuid = "E08690B2-7249-429D-A25C-9E69C5A3B85C - 8d4468f9227f87ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Project_Enjoei.ProductsModel) -&gt; Swift.Optional&lt;Swift.Array&lt;Project_Enjoei.Product&gt;&gt; in Project_Enjoei.HomeView.searchData(Swift.String) -&gt; ()"
+                  moduleName = "Project-Enjoei"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagodsmartins/Documents/Project-Enjoei/Project-Enjoei/Home/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "283"
+                  endingLineNumber = "283"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
